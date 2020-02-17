@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-printf("Wheres my water bottle?");
+printf("Where's my water bottle?");
 return 0;
 }
 
